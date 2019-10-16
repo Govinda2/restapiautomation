@@ -1,0 +1,32 @@
+2019-10-16 20:31:28,020 +0530 [main] INFO  (TC001_API_Get_All_Employees.java:24) - ************  Strated TC001_Get_All_Employees  ****************
+2019-10-16 20:31:36,735 +0530 [main] INFO  (TC002_API_Get_Single_Empoyee_Record.java:23) - ************  Strated TC002_Get_Single_Empoyee_Record  ****************
+2019-10-16 20:31:38,939 +0530 [main] INFO  (TC003_API_Post_Employee_Record.java:24) - ************  Strated TC003_Post_Employee_Record  ****************
+2019-10-16 20:31:42,727 +0530 [main] INFO  (TC003_API_Post_Employee_Record.java:63) - ************  Check for Content Type    ****************
+2019-10-16 20:31:42,747 +0530 [main] INFO  (TC003_API_Post_Employee_Record.java:37) - ************  Checking response body ****************
+2019-10-16 20:31:42,755 +0530 [main] INFO  (TC003_API_Post_Employee_Record.java:57) - ************  Check response time  ****************
+2019-10-16 20:31:42,759 +0530 [main] INFO  (TC003_API_Post_Employee_Record.java:51) - ************  Checking status code  ****************
+2019-10-16 20:31:42,769 +0530 [main] INFO  (TC003_API_Post_Employee_Record.java:69) - ************ End of TC003_Post_Employee_Record  ****************
+2019-10-16 20:31:42,783 +0530 [main] INFO  (TC004_API_Put_Employee_Record.java:27) - ************  Strated TC003_Post_Employee_Record  ****************
+2019-10-16 20:31:43,718 +0530 [main] INFO  (TC004_API_Put_Employee_Record.java:66) - ************  Check for Content Type    ****************
+2019-10-16 20:31:43,724 +0530 [main] INFO  (TC004_API_Put_Employee_Record.java:39) - ************  Checking response body ****************
+2019-10-16 20:31:43,729 +0530 [main] INFO  (TC004_API_Put_Employee_Record.java:60) - ************  Check response time  ****************
+2019-10-16 20:31:43,740 +0530 [main] INFO  (TC004_API_Put_Employee_Record.java:54) - ************  Checking status code  ****************
+2019-10-16 20:31:43,742 +0530 [main] INFO  (TC004_API_Put_Employee_Record.java:72) - ************ End of TC003_Post_Employee_Record  ****************
+2019-10-16 20:31:43,752 +0530 [main] INFO  (TC005_API_Delete_Employee_Record.java:22) - ************  TC005_Put_Employee_Record  ****************
+2019-10-16 20:31:44,625 +0530 [main] INFO  (TC005_API_Delete_Employee_Record.java:35) - ************  Checking response body ****************
+2019-10-16 20:31:44,672 +0530 [main] INFO  (TC005_API_Delete_Employee_Record.java:37) - Response Body ==> {"success":{"text":"successfully! deleted Records"}}
+2019-10-16 20:31:44,675 +0530 [main] INFO  (TC005_API_Delete_Employee_Record.java:51) - ************  Check response time  ****************
+2019-10-16 20:31:44,676 +0530 [main] INFO  (TC005_API_Delete_Employee_Record.java:53) - Response time is  ==> 854
+2019-10-16 20:31:44,680 +0530 [main] INFO  (TC005_API_Delete_Employee_Record.java:43) - ************  Checking status code  ****************
+2019-10-16 20:31:44,681 +0530 [main] INFO  (TC005_API_Delete_Employee_Record.java:45) - Status Code  is  ==> 200
+2019-10-16 20:31:44,683 +0530 [main] INFO  (TC005_API_Delete_Employee_Record.java:59) - ************ End of TC005_Post_Employee_Record  ****************
+2019-10-16 20:31:44,699 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:25) - ************  Strated TC001_Get_All_Employees  ****************
+2019-10-16 20:31:45,452 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:33) - test
+2019-10-16 20:31:45,453 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:33) - test
+2019-10-16 20:31:45,454 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:63) - ************  Checking no response ****************
+2019-10-16 20:31:46,036 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:66) - Response Body ==> "Not found"
+2019-10-16 20:31:46,038 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:39) - ************  Checking response body ****************
+2019-10-16 20:31:46,038 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:41) - Response Body ==> io.restassured.internal.RestAssuredResponseImpl@420745d7
+2019-10-16 20:31:46,040 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:55) - ************  Check response time  ****************
+2019-10-16 20:31:46,041 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:48) - ************  Checking status code  ****************
+2019-10-16 20:31:46,042 +0530 [main] INFO  (TC006_API_Get_All_Employees_Mock_API.java:72) - ************ End of TC001_Get_All_Employees  ****************
