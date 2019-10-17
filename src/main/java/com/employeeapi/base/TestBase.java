@@ -4,13 +4,14 @@ import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
 
 public class TestBase {
 
     public String empID="719"; //Hard coded as of now get to get details of single employee and update employee
-    public Logger logger;
+    public static Logger logger;
 
-    @BeforeClass
+    @BeforeSuite
     public void setup(){
 
         logger = Logger.getLogger("EmployeeRestApi"); // added logger
